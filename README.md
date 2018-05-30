@@ -35,22 +35,22 @@ Holonomic AGVs execute a transportation job in a simplified warehouse environmen
 <table style="border: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 <tr>
 <td align="center" valign="center" style="background-color:rgba(0, 0, 0, 0);" width="33%">
-<img width=100% src="./phase4/finalgifs/v10r2c2s15.gif" alt="10 AGVs, 2x2 racks"/>
+<img width=100% src="./Visualisations/v10r2c2s15.gif" alt="10 AGVs, 2x2 racks"/>
 </td>
 </tr>
 <tr>
 <td align="center" valign="center" bgcolor="#FFFFFF" width="33%">
-<img width=100% src="./phase4/finalgifs/v10r2c2I.gif" alt="10 AGVs, 2x2 racks"/>
+<img width=100% src="./Visualisations/v10r2c2I.gif" alt="10 AGVs, 2x2 racks"/>
 </td>
 </tr>
 <tr>
 <td align="center" valign="center" style="background-color:rgba(0, 0, 0, 0);" width="33%">
-<img width=100% src="./phase4/finalgifs/v15r6c6s327.gif" alt="15 AGVs, 6x6 racks"/>
+<img width=100% src="./Visualisations/v15r6c6s327.gif" alt="15 AGVs, 6x6 racks"/>
 </td>
 </tr>
 <tr>
 <td align="center" valign="center" style="background-color:rgba(0, 0, 0, 0);" width="33%">
-<img width=100% src="./phase4/finalgifs/v15r5c6s237.gif" alt="15 AGVs, 5x6 racks"/>
+<img width=100% src="./Visualisations/v15r5c5s237.gif" alt="15 AGVs, 5x6 racks"/>
 </td>
 </tr>
 </table>
